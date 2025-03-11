@@ -20,6 +20,7 @@
 Frontend:
 * React
 * TypeScript
+
 Backend & Database:
 * Node js
 * Python
