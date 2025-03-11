@@ -2,7 +2,7 @@
 
 💻 Full-stack Developer | 🧠 AI Enthusiast | 📈 Trader
 
-🛠 About Me
+🛠 About Me:
 
 📝 recently graduated engineer
 
