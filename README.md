@@ -25,5 +25,5 @@ Backend & Database:
 * Node js
 * Python
 * PHP
+* C#
 * Prisma Orm
-* TypeOrm
