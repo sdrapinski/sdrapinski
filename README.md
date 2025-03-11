@@ -3,6 +3,7 @@
 💻 Full-stack Developer | 🧠 AI Enthusiast | 📈 Trader
 
 🛠 About Me
+
 📝 recently graduated engineer
 
 💻 Passionate about web development and blockchain technology.
