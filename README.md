@@ -2,7 +2,7 @@
 
 💻 Full-stack Developer | 🧠 AI Enthusiast | 📈 Trader
 
-##🛠 About Me
+🛠 About Me
 📝 recently graduated engineer
 
 💻 Passionate about web development and blockchain technology.
@@ -15,9 +15,9 @@
 
 🌱 Currently diving deeper into Next.js 15, Solidity and AI.
 
-##🔧 Tech Stack
+🔧 Tech Stack
 
-#Frontend:
+Frontend:
 * React
 * TypeScript
 Backend & Database:
