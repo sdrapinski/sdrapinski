@@ -19,6 +19,7 @@
 
 Frontend:
 * React
+* Next
 * TypeScript
 
 Backend & Database:
