@@ -1,8 +1,4 @@
-## Hi I'm Szymon
-
 💻 Full-stack Developer | 🧠 AI Enthusiast | 📈 Trader
-
-🛠 About Me:
 
 📝 recently graduated engineer
 
@@ -14,9 +10,9 @@
 
 📊 Learning trading strategies and improving in Smart Money Concepts (SMC).
 
-🌱 Currently diving deeper into Next.js 15, Solidity and AI.
+🌱 Currently diving deeper into Next.js 15, Solidity and AI Tools and MLM.
 
-🔧 Tech Stack
+🔧 Tech Stack:
 
 Frontend:
 * React
